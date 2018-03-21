@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217822749478",
+    "firebase_url": "https://taxitrackerapp.firebaseio.com",
+    "project_id": "taxitrackerapp",
+    "storage_bucket": "taxitrackerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217822749478:android:3362cf9b029b6bb3",
+        "android_client_info": {
+          "package_name": "com.example.dell.taxitracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217822749478-ln6jgeni3dvok8p2sk7bkpl659o3v74h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.taxitracker",
+            "certificate_hash": "bea1c53e31e57b928214e8d821e49398b1c7ddf2"
+          }
+        },
+        {
+          "client_id": "217822749478-p4ta4icqqh5hcvqqj1dt114n0mrojfvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYNAvNqunwl-vhXEp83fUhDvsMhRN_8DY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217822749478-p4ta4icqqh5hcvqqj1dt114n0mrojfvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
